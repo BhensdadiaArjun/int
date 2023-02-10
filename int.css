@@ -1,0 +1,46 @@
+h1{
+    margin:0px;
+    padding: 0px;
+    text-align:center ;
+    /* border: 2px solid black; */
+    
+}
+.btn0{
+    display: inline;
+    margin: auto;
+    text-align: center;justify-content: right;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+}
+.btn0:hover{
+    background-color: white;
+    color: black;
+}
+.ele{
+    display: inline;
+    margin: auto;
+    text-align: center;justify-content: right;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+
+}
+.ele:hover{
+    background-color: white;
+    color: black;
+}
+.btn2{
+    margin: 6px;
+    padding: 6px;
+    text-align:center ;
+    text-align: right;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+
+}
+.btn2:hover{
+    background-color: white;
+    color: black;
+}
